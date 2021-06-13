@@ -4,7 +4,7 @@
 
 # EN
 
-Welcome to my Telegram bot repository. Here I use npm Telegraph and TypeScript to easily create a Telegram Bot on Node JS.
+Welcome to my Telegram bot repository. Here I use npm Telegraph and TypeScript to easily create the Telegram Bot on Node JS.
 
 The bot has a connected vk.com API, it can sent video or photo to social group and post on wall.
 
