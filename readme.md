@@ -8,7 +8,7 @@ Welcome to my Telegram bot repository. Here I use npm Telegraph and TypeScript t
 
 The bot has a connected vk.com API, it can sent video or photo to social group and post on wall.
 
-![](C:\Users\Uriy\Documents\node-all-project\ts-telegrambot-vkapi\other\bot.png)
+![](https://github.com/Progovich/typescript-telegram-vkapi/blob/master/other/bot.png)
 
 
 
@@ -44,7 +44,7 @@ https://nodejs.org/en/
 
 Добро пожаловать в мой реопзиторий телеграмм бота. Этот бот написан с использованием библиотек Telegraph и TypeScript. Бот работает с API VK и размещает посты на стене сообщества. Подключена возможность постить видео и картинки.
 
-![](C:\Users\Uriy\Documents\node-all-project\ts-telegrambot-vkapi\other\bot.png)
+![](https://github.com/Progovich/typescript-telegram-vkapi/blob/master/other/bot.png)
 
 К боту подключена MongoDB. Вам понадобится токен для использования этого бота.
 Перед началом нужно отредактировать .env файл.
