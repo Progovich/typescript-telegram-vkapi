@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Telegram Bot with VK API & Telegraph & TypeScript 👋</h1>
+<h1 align="center">Telegram Bot with VK API & Telegraf & TypeScript 👋</h1>
 
 # EN
 
-Welcome to my Telegram bot repository. Here I use npm Telegraph and TypeScript to easily create the Telegram Bot on Node JS.
+Welcome to my Telegram bot repository. Here I use npm Telegraf and TypeScript to easily create the Telegram Bot on Node JS.
 
 The bot has a connected vk.com API, it can sent video or photo to social group and post on wall.
 
@@ -42,7 +42,7 @@ https://nodejs.org/en/
 
 # RU
 
-Добро пожаловать в мой реопзиторий телеграмм бота. Этот бот написан с использованием библиотек Telegraph и TypeScript. Бот работает с API VK и размещает посты на стене сообщества. Подключена возможность постить видео и картинки.
+Добро пожаловать в мой реопзиторий телеграмм бота. Этот бот написан с использованием библиотек Telegraf и TypeScript. Бот работает с API VK и размещает посты на стене сообщества. Подключена возможность постить видео и картинки.
 
 ![](https://github.com/Progovich/typescript-telegram-vkapi/blob/master/other/bot.png)
 
