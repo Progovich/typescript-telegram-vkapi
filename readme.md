@@ -35,8 +35,6 @@ npm i
 npm run start
 ```
 
-The bot will open the badoo website and get started.
-
 You must have the Node Js platform installed to work
 https://nodejs.org/en/
 
